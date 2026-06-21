@@ -22,6 +22,11 @@
 - `02_eda_analysis.ipynb` — исследовательский анализ данных
 - `03_segmentation_analysis.ipynb` — сегментация клиентской базы
 
+## Как открыть
+1. Скачайте репозиторий
+2. Откройте файлы `01_age_analysis.ipynb`, `02_eda_analysis.ipynb`, `03_segmentation_analysis.ipynb` в Jupyter Notebook или JupyterLab.
+3. Выполняйте ячейки последовательно.
+
 ## Этапы анализа
 
 ### 1. Анализ возрастного распределения
